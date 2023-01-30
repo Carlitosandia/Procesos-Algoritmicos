@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Algoritmos de Busqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Algoritmos de Ordenacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Algoritmos de Procesamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusquedaBinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusquedaLineal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CalculoSeno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EscalaDeGrises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumerosIngresadosManualmente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdenacionBurbujaBandera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdenacionInsercion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdenacionMergeSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdenacionQuickSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdenacionRadixSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdenacionSeleccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrdenacionShell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Otros Algoritmos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visualizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
